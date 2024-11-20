@@ -6,7 +6,7 @@ function Home() {
     return (
       <> 
           <p></p>
-          <Header title="React Class Project App v1.0.0"/>
+          <Header title="React To Do List App v1.0.0"/>
           <p></p>
           <div>
               <p>
