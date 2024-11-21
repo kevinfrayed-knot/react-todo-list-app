@@ -1,19 +1,16 @@
 
 
 import Header from "./Header";
+import TodoList from "./TodoList";
 
 function Home() {
     return (
       <> 
-          <p></p>
           <Header title="React To Do List App v1.0.0"/>
-          <p></p>
           <div>
-              <p>
-                <span>Home page</span>
-              </p>
+              <TodoList title="FrayedKnot Task Manager"/>
           </div>     
-          <p></p>
+          
       </>
     );
 }
