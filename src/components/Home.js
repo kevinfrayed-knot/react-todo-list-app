@@ -6,9 +6,9 @@ import TodoList from "./TodoList";
 function Home() {
     return (
       <> 
-          <Header title="React To Do List App v1.0.0"/>
+          <Header title="React To Do List App v0.0.3"/>
           <div>
-              <TodoList title="FrayedKnot Task Manager"/>
+              <TodoList title="FrayedKnot Task Manager v0.0.3"/>
           </div>     
           
       </>
